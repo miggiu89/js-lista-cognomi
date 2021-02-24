@@ -1,0 +1,22 @@
+#cognome-utente {
+    display: inline;
+  }
+  
+  #lista-cognomi {
+    display: inline-block;
+  }
+  
+  .btn {
+    border: 2px solid red;
+    background-color: lightgrey;
+    color: red;
+  }
+  
+  .btn:active {
+    background-color: black;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
